@@ -1,0 +1,1 @@
+Site bilingue FR/EN — brouillon. Ne pas publier avant validation des pages juridiques et des liens des plugins. Fichiers à déposer à la racine d’un dépôt GitHub Pages. Aucun plugin n’est publié par la création de ce site.
